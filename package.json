@@ -1,0 +1,11 @@
+{
+  "name": "@iamgx/get-all-css",
+  "version": "0.9.10",
+  "author": "GeXing",
+  "description": "获取页面样式",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "release": "npm version patch && npm publish --access public"
+  }
+}
